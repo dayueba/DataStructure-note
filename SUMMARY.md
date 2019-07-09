@@ -18,9 +18,9 @@
     * 树和森林的遍历
   * Huffman树及其应用
 * [图](tu.md)
-  * 图的定义和术语
-  * 图的存储结构
-    * 数组
+  * [图的定义和术语](tu/tu-de-ding-yi-he-zhu-yu.md)
+  * [图的存储结构](tu/tu-de-cun-chu-jie-gou.md)
+    * [数组](tu/tu-de-cun-chu-jie-gou/shu-zu.md)
     * 邻接表
     * 邻接多重表
   * 图的遍历
