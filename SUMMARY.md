@@ -4,7 +4,7 @@
 * [First Chapter](chapter1.md)
 * [线性表](xian-xing-biao.md)
   * [线性表的类型定义](xian-xing-biao/xian-xing-biao-de-lei-xing-ding-yi.md)
-  * 线性表的顺序表示和实现
+  * [线性表的顺序表示和实现](xian-xing-biao/xian-xing-biao-de-shun-xu-biao-shi-he-shi-xian.md)
   * [线性表的链式表表示与实现](xian-xing-biao/xian-xing-biao-de-lian-shi-biao-biao-shi-yu-shi-xian.md)
   * 线性表的应用
 * [栈](zhan.md)
